@@ -3,12 +3,12 @@ launch_status_broken 0
 launch_status_passed 364
 launch_status_skipped 54
 launch_status_unknown 0
-launch_time_duration 223510
+launch_time_duration 150747
 launch_time_min_duration 0
-launch_time_max_duration 20128
-launch_time_sum_duration 430856
-launch_time_start 1793610139256
-launch_time_stop 1793610362766
+launch_time_max_duration 16901
+launch_time_sum_duration 389555
+launch_time_start 1793696532033
+launch_time_stop 1793696682780
 launch_problems_known_saucedemo_bugs_(expected_failures) 54
 launch_retries_retries 14
 launch_retries_run 418
